@@ -3,6 +3,7 @@ name = "project47a"
 version = "0.1.0"
 description = "Code name generator"
 authors = ["Henryk Plötz <henryk@ploetzli.ch>"]
+repository = "https://github.com/henryk/project47a"
 license = "Apache-2.0"
 readme = "README.md"
 classifiers = [
