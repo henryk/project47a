@@ -17,7 +17,7 @@ from typing import Literal, Optional, Callable, Protocol
 
 from . import data
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 
 
 class Generator(Protocol):
