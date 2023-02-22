@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from project47a.data.de import adjektiv_deklinieren, Flags, generate_random
+from project47a.data.de import Flags, adjektiv_deklinieren, generate_random
 
 
 def test_adjektiv_deklinieren_1():

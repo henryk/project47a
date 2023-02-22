@@ -13,7 +13,7 @@
 # limitations under the License.
 
 import random
-from typing import Literal, Optional, Callable, Protocol
+from typing import Callable, Literal, Optional, Protocol
 
 from . import data
 
