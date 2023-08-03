@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "project47a"
-version = "0.2.0"
+version = "0.2.1"
 description = "Code name generator"
 authors = ["Henryk Plötz <henryk@ploetzli.ch>"]
 repository = "https://github.com/henryk/project47a"
