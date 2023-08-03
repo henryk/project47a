@@ -283,7 +283,7 @@ _ADJECTIVES_1 = [
     "wund",
     "wüst",
     "zahm",
-    "zart ",
+    "zart",
     "zähe",
     "äußere",
     "öde",
